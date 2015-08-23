@@ -14,6 +14,6 @@
 (tool-bar-mode 0)
 
 (load-theme 'seti)
-(highline-mode)
 (require 'cl)
-(require 'main-line)
+(require 'powerline)
+(powerline-default-theme)
