@@ -94,6 +94,7 @@
 (depends-on "shm")
 (depends-on "shut-up")
 (depends-on "smex")
+(depends-on "smooth-scroll")
 (depends-on "solarized-theme")
 (depends-on "sr-speedbar")
 (depends-on "starter-kit")
