@@ -98,6 +98,7 @@
 (depends-on "sr-speedbar")
 (depends-on "starter-kit")
 (depends-on "web-completion-data")
+(depends-on "web-mode")
 (depends-on "with-editor")
 (depends-on "writeroom-mode")
 (depends-on "xlicense")
